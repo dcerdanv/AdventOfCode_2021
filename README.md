@@ -32,6 +32,7 @@ I will solve the puzzles in python notebooks
 
 - Day 1 (December 1, 2021): Report Repair. [Puzzle](https://adventofcode.com/2021/day/1) - [Solution](notebooks/01_sonar_sweep.ipynb).
 - Day 2 (December 2, 2021): Dive!. [Puzzle](https://adventofcode.com/2021/day/2) - [Solution](notebooks/02_dive!.ipynb).
+- Day 3 (December 3, 2021): Binary Diagnostic. [Puzzle](https://adventofcode.com/2021/day/3) - [Solution](notebooks/03_binary_diagnostic.ipynb).
 
 
 
