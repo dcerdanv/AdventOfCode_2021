@@ -33,6 +33,9 @@ I will solve the puzzles in python notebooks
 - Day 1 (December 1, 2021): Report Repair. [Puzzle](https://adventofcode.com/2021/day/1) - [Solution](notebooks/01_sonar_sweep.ipynb).
 - Day 2 (December 2, 2021): Dive!. [Puzzle](https://adventofcode.com/2021/day/2) - [Solution](notebooks/02_dive!.ipynb).
 - Day 3 (December 3, 2021): Binary Diagnostic. [Puzzle](https://adventofcode.com/2021/day/3) - [Solution](notebooks/03_binary_diagnostic.ipynb).
+- Day 4 (December 4, 2021): Giant Squid. [Puzzle](https://adventofcode.com/2021/day/4) - [Solution](notebooks/04_giant_squid.ipynb).
+- Day 5 (December 5, 2021): Hidrothermal Venture. [Puzzle](https://adventofcode.com/2021/day/5) - [Solution](notebooks/05_hidrothermal_venture.ipynb).
+- Day 6 (December 6, 2021): Lanterfish. [Puzzle](https://adventofcode.com/2021/day/6) - [Solution](notebooks/06_lanternfish.ipynb).
 
 
 
