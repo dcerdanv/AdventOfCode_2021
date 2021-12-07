@@ -36,7 +36,7 @@ I will solve the puzzles in python notebooks
 - Day 4 (December 4, 2021): Giant Squid. [Puzzle](https://adventofcode.com/2021/day/4) - [Solution](notebooks/04_giant_squid.ipynb).
 - Day 5 (December 5, 2021): Hidrothermal Venture. [Puzzle](https://adventofcode.com/2021/day/5) - [Solution](notebooks/05_hidrothermal_venture.ipynb).
 - Day 6 (December 6, 2021): Lanterfish. [Puzzle](https://adventofcode.com/2021/day/6) - [Solution](notebooks/06_lanternfish.ipynb).
-
+- Day 7 (December 7, 2021): The Treachery of Whales. [Puzzle](https://adventofcode.com/2021/day/7) - [Solution](notebooks/07_the_treachery_of_whales.ipynb).
 
 
 
