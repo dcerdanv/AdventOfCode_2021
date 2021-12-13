@@ -37,6 +37,11 @@ I will solve the puzzles in python notebooks
 - Day 5 (December 5, 2021): Hidrothermal Venture. [Puzzle](https://adventofcode.com/2021/day/5) - [Solution](notebooks/05_hidrothermal_venture.ipynb).
 - Day 6 (December 6, 2021): Lanterfish. [Puzzle](https://adventofcode.com/2021/day/6) - [Solution](notebooks/06_lanternfish.ipynb).
 - Day 7 (December 7, 2021): The Treachery of Whales. [Puzzle](https://adventofcode.com/2021/day/7) - [Solution](notebooks/07_the_treachery_of_whales.ipynb).
+- Day 8 (December 8, 2021): Seven Segment Search. [Puzzle](https://adventofcode.com/2021/day/8) - [Solution](notebooks/08_seven_segment_search.ipynb).
+- Day 9 (December 9, 2021): Smoke Basin. [Puzzle](https://adventofcode.com/2021/day/9) - [Solution](notebooks/09_smoke_basin.ipynb).
+- Day 10 (December 10, 2021): Syntax Scoring. [Puzzle](https://adventofcode.com/2021/day/10) - [Solution](notebooks/10_syntax_scoring.ipynb).
+- Day 11 (December 11, 2021): Dumbo Octopus. [Puzzle](https://adventofcode.com/2021/day/11) - [Solution](notebooks/11_dumbo_octopus.ipynb).
+- Day 12 (December 12, 2021): Passage pathing. [Puzzle](https://adventofcode.com/2021/day/12) - [Solution](notebooks/12_passage_pathing.ipynb).
 
 
 
